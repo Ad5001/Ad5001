@@ -1,1 +1,72 @@
-<svg width="113.4mm" height="92.3mm" viewBox="0 0 113.4 92.3" xmlns="http://www.w3.org/2000/svg"><defs><filter id="c" x="-.01" y="-.04" width="1.02" height="1.081" color-interpolation-filters="sRGB"><feFlood flood-color="#000" result="flood"/><feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1"/><feGaussianBlur in="composite1" result="blur" stdDeviation=".2"/><feOffset result="offset"/><feComposite in="SourceGraphic" in2="offset" result="composite2"/></filter><filter id="b" x="-.013" y="-.016" width="1.025" height="1.032" color-interpolation-filters="sRGB"><feFlood flood-color="#000" result="flood"/><feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1"/><feGaussianBlur in="composite1" result="blur" stdDeviation=".6"/><feOffset result="offset"/><feComposite in="SourceGraphic" in2="offset" result="composite2"/></filter><linearGradient id="a" x1="0" x2="113.24" y1="0" y2="91.546" gradientUnits="userSpaceOnUse"><stop stop-color="#fefefe" offset="0"/><stop stop-color="#ececec" offset="1"/></linearGradient></defs><path transform="translate(1.633 1.633) scale(.97183)" fill="url(#a)" fill-rule="evenodd" filter="url(#b)" style="paint-order:markers stroke fill" d="M0 0h113.24v91.546H0z"/><text x="50.497" y="16.14" font-family="sans-serif" font-size="6.35" letter-spacing="0" stroke-width=".265" word-spacing="0" style="line-height:1.25" xml:space="preserve"><tspan x="50.497" y="16.14">About me</tspan></text><path d="M45.306 16.178c-1.365-.315-2.635-.591-2.02-1.754 1.873-3.537.496-5.428-1.481-5.428-2.017 0-3.36 1.964-1.482 5.428.634 1.17-.684 1.446-2.02 1.754-1.22.282-1.265.887-1.261 1.946l.001.397h9.522l.001-.384c.005-1.067-.036-1.676-1.26-1.959z"/><text x="7.101" y="28.702" font-family="sans-serif" font-size="4.233" letter-spacing="0" stroke-width=".265" word-spacing="0" style="line-height:1.25" xml:space="preserve"><tspan x="7.101" y="28.702">Currently a student, I have been programming as</tspan><tspan x="7.101" y="33.994">a hobby for 6 years, mainly in open source.</tspan><tspan x="7.101" y="44.577">Across those years, I&apos;ve created several projects,</tspan><tspan x="7.101" y="49.869">and acquired many skills related to software</tspan><tspan x="7.101" y="55.16">development, as well as system administration</tspan><tspan x="7.101" y="60.452">and other fields.</tspan></text><path d="M32.808 71.967h47.625v11.906H32.808z" fill="#50dc71" fill-rule="evenodd" filter="url(#c)" style="paint-order:markers stroke fill"/><path d="M41.275 77.788v2.646h-5.556v-5.027h3.175v.529h-2.646v3.969h4.498v-2.117zm.794-3.175h-2.907l1.067 1.058-1.846 1.87.748.75 1.846-1.871 1.092 1.103z"/><text x="44.953" y="79.83" font-family="sans-serif" font-size="5.556" letter-spacing="0" stroke-width=".265" word-spacing="0" style="line-height:1.25" xml:space="preserve"><tspan x="44.953" y="79.83">LEARN MORE</tspan></text></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg979" width="113.4mm" height="92.3mm" version="1.1" viewBox="0 0 113.4 92.3" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title id="title867">About me - Ad5001 Github</title>
+ <defs id="defs976">
+  <linearGradient id="linearGradient27871" x1="5e-7" x2="113.24" y1="8.1294e-6" y2="91.546" gradientUnits="userSpaceOnUse">
+   <stop id="stop27865" stop-color="#fefefe" offset="0"/>
+   <stop id="stop27867" stop-color="#ececec" offset="1"/>
+  </linearGradient>
+  <filter id="filter1133" x="-.012716" y="-.01573" width="1.0254" height="1.0315" color-interpolation-filters="sRGB">
+   <feFlood id="feFlood1123" flood-color="rgb(0,0,0)" result="flood"/>
+   <feComposite id="feComposite1125" in="flood" in2="SourceGraphic" operator="in" result="composite1"/>
+   <feGaussianBlur id="feGaussianBlur1127" in="composite1" result="blur" stdDeviation="0.6"/>
+   <feOffset id="feOffset1129" dx="0" dy="0" result="offset"/>
+   <feComposite id="feComposite1131" in="SourceGraphic" in2="offset" result="composite2"/>
+  </filter>
+  <filter id="filter7571" x="-.0093035" y="-.040315" width="1.0186" height="1.0806" color-interpolation-filters="sRGB">
+   <feFlood id="feFlood7561" flood-color="rgb(0,0,0)" result="flood"/>
+   <feComposite id="feComposite7563" in="flood" in2="SourceGraphic" operator="in" result="composite1"/>
+   <feGaussianBlur id="feGaussianBlur7565" in="composite1" result="blur" stdDeviation="0.2"/>
+   <feOffset id="feOffset7567" dx="0" dy="0" result="offset"/>
+   <feComposite id="feComposite7569" in="SourceGraphic" in2="offset" result="composite2"/>
+  </filter>
+ </defs>
+ <g id="layer2">
+  <rect id="rect26993" transform="matrix(.97183 0 0 .97183 1.6327 1.6327)" x="5e-7" y="8.1294e-6" width="113.24" height="91.546" fill="url(#linearGradient27871)" fill-rule="evenodd" filter="url(#filter1133)" style="paint-order:markers stroke fill"/>
+  <text id="text22781" x="50.497318" y="16.139584" fill="#000000" font-family="sans-serif" font-size="6.35px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan22779" x="50.497318" y="16.139584" font-size="6.35px" stroke-width=".26458">About me</tspan></text>
+  <path id="path2" d="m45.306 16.178c-1.3649-0.31514-2.6354-0.59138-2.0202-1.7535 1.8734-3.5372 0.49653-5.4288-1.4812-5.4288-2.017 0-3.3593 1.9642-1.4812 5.4288 0.63385 1.1689-0.68464 1.4451-2.0202 1.7535-1.2197 0.28179-1.2653 0.88747-1.2613 1.9464l0.0015 0.39689h9.5215l0.0015-0.38458c0.0045-1.0669-0.03645-1.6757-1.2605-1.9587z" stroke-width=".3969"/>
+  <text id="text29203" x="7.1014166" y="28.701998" fill="#000000" font-family="sans-serif" font-size="4.2333px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan2482" x="7.1014166" y="28.701998">Currently a student, I have been programming as</tspan><tspan id="tspan10846" x="7.1014166" y="33.99366">a hobby for 6 years, mainly in open source.</tspan><tspan id="tspan10848" x="7.1014166" y="39.285324"/><tspan id="tspan10850" x="7.1014166" y="44.576984">Across those years, I've created several projects,</tspan><tspan id="tspan10852" x="7.1014166" y="49.868645">and acquired many skills related to software</tspan><tspan id="tspan10854" x="7.1014166" y="55.160309">development, as well as system administration</tspan><tspan id="tspan10856" x="7.1014166" y="60.451973">and other fields.</tspan></text>
+  <path id="rect47994" d="m30.956 71.967h51.594v11.906h-51.594z" fill="#50dc71" fill-rule="evenodd" filter="url(#filter7571)" stroke-width="0" style="paint-order:markers stroke fill"/>
+  <path id="path2-2" d="m39.423 77.788v2.6458h-5.5562v-5.0271h3.175v0.52917h-2.6458v3.9688h4.4979v-2.1167zm0.79375-3.175h-2.9072l1.0676 1.0583-1.846 1.8706 0.74824 0.74824 1.846-1.8706 1.0914 1.1038z" stroke-width=".26458"/>
+  <g id="text50436" transform="matrix(1.0022 0 0 1 -.18232 -.011109)" stroke-width=".26458" aria-label="LEARN MORE">
+   <path id="path885" d="m43.912 79.419v-3.406h-0.43339v3.8171h2.517v-0.41116z"/>
+   <path id="path887" d="m49.363 76.424v-0.41116h-2.7392v3.8171h2.7392v-0.41116h-2.3003v-1.3279h2.0725v-0.41116h-2.0725v-1.2557z"/>
+   <path id="path889" d="m53.213 79.83h0.47228l-1.6835-3.8171h-0.47228l-1.6835 3.8171h0.47228l0.38338-0.86678h2.128zm-2.3336-1.2779 0.889-2.0058 0.88344 2.0058z"/>
+   <path id="path891" d="m57.258 77.236c0-0.71676-0.61674-1.2224-1.4057-1.2224h-1.5502v3.8171h0.43339v-1.3724h1.0112l0.96679 1.3724h0.49451l-0.98901-1.4113c0.60563-0.12779 1.039-0.58341 1.039-1.1835zm-2.5225-0.81121h1.039c0.6223 0 1.0446 0.30004 1.0446 0.81121s-0.42228 0.81121-1.0446 0.81121h-1.039z"/>
+   <path id="path893" d="m57.997 79.83h0.43339v-3.1059l2.367 3.1059h0.43339v-3.8171h-0.43339v3.1059l-2.367-3.1059h-0.43339z"/>
+   <path id="path895" d="m63.887 79.83h0.43339v-2.8837l1.4168 2.6614 1.4168-2.6614v2.8837h0.43339v-3.8171h-0.43339l-1.4168 2.6614-1.4168-2.6614h-0.43339z"/>
+   <path id="path897" d="m70.354 79.897c1.0612 0 1.9502-0.90567 1.9502-1.978s-0.889-1.9725-1.9502-1.9725c-1.0557 0-1.9558 0.90011-1.9558 1.9725s0.90011 1.978 1.9558 1.978zm0-0.40005c-0.82232 0-1.5169-0.72231-1.5169-1.578 0-0.85011 0.69453-1.5724 1.5169-1.5724s1.5113 0.72231 1.5113 1.5724c0 0.85566-0.68898 1.578-1.5113 1.578z"/>
+   <path id="path899" d="m75.988 77.236c0-0.71676-0.61674-1.2224-1.4057-1.2224h-1.5502v3.8171h0.43339v-1.3724h1.0112l0.96679 1.3724h0.49451l-0.98901-1.4113c0.60563-0.12779 1.039-0.58341 1.039-1.1835zm-2.5225-0.81121h1.039c0.6223 0 1.0446 0.30004 1.0446 0.81121s-0.42228 0.81121-1.0446 0.81121h-1.039z"/>
+   <path id="path901" d="m79.383 76.424v-0.41116h-2.7392v3.8171h2.7392v-0.41116h-2.3003v-1.3279h2.0725v-0.41116h-2.0725v-1.2557z"/>
+  </g>
+ </g>
+ <metadata id="metadata865">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:title>About me - Ad5001 Github</dc:title>
+    <dc:date>10/04/2022</dc:date>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Ad5001</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <dc:rights>
+     <cc:Agent>
+      <dc:title>(c) Ad5001 2022</dc:title>
+     </cc:Agent>
+    </dc:rights>
+    <dc:source>https://github.com/Ad5001/Ad5001</dc:source>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
+   </cc:Work>
+   <cc:License rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+    <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+    <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
+</svg>

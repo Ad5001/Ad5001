@@ -29,12 +29,12 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.933033"
-     inkscape:cx="149.5124"
-     inkscape:cy="95.387837"
+     inkscape:zoom="1.866066"
+     inkscape:cx="269.81897"
+     inkscape:cy="179.52205"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
-     inkscape:window-x="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2"
@@ -278,6 +278,42 @@
          result="composite2"
          id="feComposite1131" />
     </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter7571"
+       x="-0.0093034526"
+       y="-0.040314961"
+       width="1.0186069"
+       height="1.0806299">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood7561" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite7563" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.2"
+         result="blur"
+         id="feGaussianBlur7565" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset7567" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite7569" />
+    </filter>
   </defs>
   <g
      inkscape:groupmode="layer"
@@ -350,23 +386,54 @@
          id="tspan10856">and other fields.</tspan></text>
     <path
        id="rect47994"
-       style="fill:#50dc71;fill-rule:evenodd;stroke-width:0;stroke-linejoin:round;paint-order:markers stroke fill;filter:url(#filter975);fill-opacity:1"
-       d="m 32.808334,71.966667 h 47.625 v 11.90625 h -47.625 z" />
+       style="fill:#50dc71;fill-opacity:1;fill-rule:evenodd;stroke-width:0;stroke-linejoin:round;paint-order:markers stroke fill;filter:url(#filter7571)"
+       d="M 30.95625,71.966667 H 82.55 v 11.90625 H 30.95625 Z" />
     <path
-       d="m 41.275,77.7875 v 2.645834 H 35.71875 V 75.40625 h 3.175 v 0.529167 h -2.645833 v 3.96875 h 4.497916 V 77.7875 Z m 0.79375,-3.175 h -2.907242 l 1.067594,1.058334 -1.845998,1.870604 0.748242,0.748241 1.845998,-1.870604 1.091406,1.103842 z"
+       d="m 39.422916,77.7875 v 2.645834 h -5.55625 V 75.40625 h 3.175 v 0.529167 h -2.645833 v 3.96875 h 4.497916 V 77.7875 Z m 0.79375,-3.175 h -2.907242 l 1.067594,1.058334 -1.845998,1.870604 0.748242,0.748241 1.845998,-1.870604 1.091406,1.103842 z"
        id="path2-2"
        style="stroke-width:0.264583" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.55625px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="44.952709"
-       y="79.830345"
-       id="text50436"><tspan
-         sodipodi:role="line"
-         id="tspan50434"
-         style="font-size:5.55625px;stroke-width:0.264583"
-         x="44.952709"
-         y="79.830345">LEARN MORE</tspan></text>
+    <g
+       aria-label="LEARN MORE"
+       id="text50436"
+       style="font-size:5.55625px;line-height:1.25;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       transform="matrix(1.0021974,0,0,1,-0.18232188,-0.01110933)">
+      <path
+         d="m 43.911837,79.419183 v -3.405982 h -0.433388 v 3.817144 h 2.516981 v -0.411162 z"
+         style="font-family:Metropolis;-inkscape-font-specification:Metropolis"
+         id="path885" />
+      <path
+         d="m 49.362509,76.424364 v -0.411163 h -2.739231 v 3.817144 h 2.739231 v -0.411162 h -2.300287 v -1.327944 h 2.072481 v -0.411163 h -2.072481 v -1.255712 z"
+         style="font-family:Metropolis;-inkscape-font-specification:Metropolis"
+         id="path887" />
+      <path
+         d="m 53.212984,79.830345 h 0.472281 L 52.001722,76.013201 H 51.52944 l -1.683543,3.817144 h 0.472281 l 0.383381,-0.866775 h 2.128044 z m -2.333625,-1.277937 0.889,-2.005807 0.883444,2.005807 z"
+         style="font-family:Metropolis;-inkscape-font-specification:Metropolis"
+         id="path889" />
+      <path
+         d="m 57.25793,77.235576 c 0,-0.716756 -0.616744,-1.222375 -1.405732,-1.222375 h -1.550193 v 3.817144 h 0.433387 v -1.372394 h 1.011238 l 0.966787,1.372394 h 0.494507 l -0.989013,-1.411287 c 0.605631,-0.127794 1.039019,-0.583407 1.039019,-1.183482 z m -2.522538,-0.811212 h 1.039019 c 0.6223,0 1.044575,0.300037 1.044575,0.811212 0,0.511175 -0.422275,0.811213 -1.044575,0.811213 h -1.039019 z"
+         style="font-family:Metropolis;-inkscape-font-specification:Metropolis"
+         id="path891" />
+      <path
+         d="m 57.996908,79.830345 h 0.433388 v -3.105944 l 2.366962,3.105944 h 0.433388 v -3.817144 h -0.433388 v 3.105944 l -2.366962,-3.105944 h -0.433388 z"
+         style="font-family:Metropolis;-inkscape-font-specification:Metropolis"
+         id="path893" />
+      <path
+         d="m 63.886521,79.830345 h 0.433387 v -2.883694 l 1.416844,2.661444 1.416844,-2.661444 v 2.883694 h 0.433387 v -3.817144 h -0.433387 l -1.416844,2.661444 -1.416844,-2.661444 h -0.433387 z"
+         style="font-family:Metropolis;-inkscape-font-specification:Metropolis"
+         id="path895" />
+      <path
+         d="m 70.353986,79.89702 c 1.061243,0 1.950243,-0.905669 1.950243,-1.978025 0,-1.072356 -0.889,-1.972469 -1.950243,-1.972469 -1.055688,0 -1.9558,0.900113 -1.9558,1.972469 0,1.072356 0.900112,1.978025 1.9558,1.978025 z m 0,-0.40005 c -0.822325,0 -1.516857,-0.722312 -1.516857,-1.577975 0,-0.850106 0.694532,-1.572419 1.516857,-1.572419 0.822325,0 1.5113,0.722313 1.5113,1.572419 0,0.855663 -0.688975,1.577975 -1.5113,1.577975 z"
+         style="font-family:Metropolis;-inkscape-font-specification:Metropolis"
+         id="path897" />
+      <path
+         d="m 75.988018,77.235576 c 0,-0.716756 -0.616744,-1.222375 -1.405731,-1.222375 h -1.550194 v 3.817144 h 0.433387 v -1.372394 h 1.011238 l 0.966787,1.372394 h 0.494507 l -0.989013,-1.411287 c 0.605631,-0.127794 1.039019,-0.583407 1.039019,-1.183482 z M 73.46548,76.424364 h 1.039019 c 0.6223,0 1.044575,0.300037 1.044575,0.811212 0,0.511175 -0.422275,0.811213 -1.044575,0.811213 H 73.46548 Z"
+         style="font-family:Metropolis;-inkscape-font-specification:Metropolis"
+         id="path899" />
+      <path
+         d="m 79.382887,76.424364 v -0.411163 h -2.739231 v 3.817144 h 2.739231 v -0.411162 h -2.300288 v -1.327944 h 2.072482 v -0.411163 h -2.072482 v -1.255712 z"
+         style="font-family:Metropolis;-inkscape-font-specification:Metropolis"
+         id="path901" />
+    </g>
   </g>
   <metadata
      id="metadata865">

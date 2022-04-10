@@ -134,6 +134,42 @@
          result="composite2"
          id="feComposite1156" />
     </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter6467"
+       x="-0.0084380151"
+       y="-0.040314961"
+       width="1.016876"
+       height="1.0806299">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood6457" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite6459" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.2"
+         result="blur"
+         id="feGaussianBlur6461" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset6463" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite6465" />
+    </filter>
   </defs>
   <g
      inkscape:groupmode="layer"
@@ -197,23 +233,61 @@
          id="tspan6295">download link on their dedicated page.</tspan></text>
     <path
        id="rect47994"
-       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0;stroke-linejoin:round;paint-order:markers stroke fill;filter:url(#filter1158)"
-       d="M 30.427083,71.966667 H 83.34375 v 11.90625 H 30.427083 Z" />
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0;stroke-linejoin:round;paint-order:markers stroke fill;filter:url(#filter6467)"
+       d="m 28.310417,71.966667 h 56.885417 v 11.90625 H 28.310417 Z" />
     <path
-       d="m 38.893749,77.7875 v 2.645834 h -5.55625 V 75.40625 h 3.175 v 0.529167 h -2.645833 v 3.96875 h 4.497916 V 77.7875 Z m 0.79375,-3.175 h -2.907242 l 1.067594,1.058334 -1.845998,1.870604 0.748242,0.748241 1.845998,-1.870604 1.091406,1.103842 z"
+       d="m 36.777083,77.7875 v 2.645834 h -5.55625 V 75.40625 h 3.175 v 0.529167 H 31.75 v 3.96875 h 4.497916 V 77.7875 Z m 0.79375,-3.175 h -2.907242 l 1.067594,1.058334 -1.845998,1.870604 0.748242,0.748241 1.845998,-1.870604 1.091406,1.103842 z"
        id="path2-2"
        style="stroke-width:0.264583" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.55625px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="42.571461"
-       y="79.830345"
-       id="text50436"><tspan
-         sodipodi:role="line"
-         id="tspan50434"
-         style="font-size:5.55625px;stroke-width:0.264583"
-         x="42.571461"
-         y="79.830345">APPS WEBSITE</tspan></text>
+    <g
+       aria-label="APPS WEBSITE"
+       id="text50436"
+       style="font-size:5.55625px;line-height:1.25;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583">
+      <path
+         d="m 43.99968,79.830345 h 0.472281 l -1.683544,-3.817144 h -0.472281 l -1.683544,3.817144 h 0.472281 l 0.383382,-0.866775 h 2.128043 z m -2.333625,-1.277937 0.889,-2.005807 0.883443,2.005807 z"
+         style="font-family:Metropolis;-inkscape-font-specification:Metropolis"
+         id="path1972" />
+      <path
+         d="m 45.0887,79.830345 h 0.433387 v -1.372394 h 1.116806 c 0.788988,0 1.405732,-0.505618 1.405732,-1.222375 0,-0.716756 -0.616744,-1.222375 -1.405732,-1.222375 H 45.0887 Z m 0.433387,-1.783556 v -1.622425 h 1.039019 c 0.6223,0 1.044575,0.300037 1.044575,0.811212 0,0.511175 -0.422275,0.811213 -1.044575,0.811213 z"
+         style="font-family:Metropolis;-inkscape-font-specification:Metropolis"
+         id="path1974" />
+      <path
+         d="m 48.66692,79.830345 h 0.433387 v -1.372394 h 1.116806 c 0.788988,0 1.405732,-0.505618 1.405732,-1.222375 0,-0.716756 -0.616744,-1.222375 -1.405732,-1.222375 H 48.66692 Z m 0.433387,-1.783556 v -1.622425 h 1.039019 c 0.6223,0 1.044575,0.300037 1.044575,0.811212 0,0.511175 -0.422275,0.811213 -1.044575,0.811213 z"
+         style="font-family:Metropolis;-inkscape-font-specification:Metropolis"
+         id="path1976" />
+      <path
+         d="m 53.567527,79.891464 c 0.889001,0 1.344613,-0.494506 1.344613,-1.100138 0,-0.672306 -0.522287,-0.93345 -1.250156,-1.105693 -0.650082,-0.155575 -1.027907,-0.294482 -1.027907,-0.688975 0,-0.350044 0.344488,-0.661194 0.816769,-0.661194 0.40005,0 0.777875,0.183356 1.094582,0.48895 l 0.2667,-0.338931 C 54.462084,76.16322 54.039809,75.94097 53.473071,75.94097 c -0.733425,0 -1.277937,0.477838 -1.277937,1.089025 0,0.661194 0.483393,0.900113 1.250156,1.077913 0.66675,0.155575 1.027906,0.316706 1.027906,0.722312 0,0.344488 -0.300037,0.66675 -0.889,0.66675 -0.5334,0 -0.927894,-0.227806 -1.250156,-0.550069 l -0.272256,0.338932 c 0.383381,0.377825 0.877887,0.605631 1.505743,0.605631 z"
+         style="font-family:Metropolis;-inkscape-font-specification:Metropolis"
+         id="path1978" />
+      <path
+         d="m 58.334779,79.830345 h 0.427831 l 1.0668,-3.250406 1.061244,3.250406 h 0.427831 l 1.305719,-3.817144 h -0.48895 l -1.055688,3.089275 -1.011237,-3.089275 h -0.483394 l -1.011238,3.089275 -1.055687,-3.089275 h -0.48895 z"
+         style="font-family:Metropolis;-inkscape-font-specification:Metropolis"
+         id="path1980" />
+      <path
+         d="m 66.007958,76.424364 v -0.411163 h -2.739232 v 3.817144 h 2.739232 V 79.419183 H 63.70767 v -1.327944 h 2.072481 V 77.680076 H 63.70767 v -1.255712 z"
+         style="font-family:Metropolis;-inkscape-font-specification:Metropolis"
+         id="path1982" />
+      <path
+         d="m 66.835833,79.830345 h 1.816894 c 0.661193,0 1.133475,-0.433387 1.133475,-1.044575 0,-0.416719 -0.255588,-0.761206 -0.694532,-0.983456 0.344488,-0.200025 0.544513,-0.433388 0.544513,-0.838994 0,-0.555625 -0.433388,-0.950119 -1.050131,-0.950119 H 66.835833 Z M 67.26922,77.63007 v -1.222375 h 1.205707 c 0.422275,0 0.722312,0.255588 0.722312,0.611188 0,0.3556 -0.300037,0.611187 -0.722312,0.611187 z m 0,1.805781 v -1.411287 h 1.272382 c 0.472281,0 0.805656,0.294481 0.805656,0.705644 0,0.411162 -0.333375,0.705643 -0.805656,0.705643 z"
+         style="font-family:Metropolis;-inkscape-font-specification:Metropolis"
+         id="path1984" />
+      <path
+         d="m 71.864235,79.891464 c 0.889,0 1.344612,-0.494506 1.344612,-1.100138 0,-0.672306 -0.522287,-0.93345 -1.250156,-1.105693 -0.650081,-0.155575 -1.027906,-0.294482 -1.027906,-0.688975 0,-0.350044 0.344487,-0.661194 0.816768,-0.661194 0.40005,0 0.777875,0.183356 1.094582,0.48895 l 0.2667,-0.338931 C 72.758791,76.16322 72.336516,75.94097 71.769778,75.94097 c -0.733425,0 -1.277937,0.477838 -1.277937,1.089025 0,0.661194 0.483394,0.900113 1.250156,1.077913 0.66675,0.155575 1.027906,0.316706 1.027906,0.722312 0,0.344488 -0.300037,0.66675 -0.889,0.66675 -0.5334,0 -0.927893,-0.227806 -1.250156,-0.550069 l -0.272256,0.338932 c 0.383381,0.377825 0.877887,0.605631 1.505744,0.605631 z"
+         style="font-family:Metropolis;-inkscape-font-specification:Metropolis"
+         id="path1986" />
+      <path
+         d="m 73.947821,79.830345 h 0.433387 v -3.817144 h -0.433387 z"
+         style="font-family:Metropolis;-inkscape-font-specification:Metropolis"
+         id="path1988" />
+      <path
+         d="m 76.35367,79.830345 h 0.433387 v -3.405981 h 1.283494 v -0.411163 h -3.000375 v 0.411163 h 1.283494 z"
+         style="font-family:Metropolis;-inkscape-font-specification:Metropolis"
+         id="path1990" />
+      <path
+         d="m 81.498751,76.424364 v -0.411163 h -2.739232 v 3.817144 h 2.739232 v -0.411162 h -2.300288 v -1.327944 h 2.072482 v -0.411163 h -2.072482 v -1.255712 z"
+         style="font-family:Metropolis;-inkscape-font-specification:Metropolis"
+         id="path1992" />
+    </g>
     <path
        d="m 52.122916,11.377083 v 6.35 h -7.937498 v -6.35 z m 0.793751,-2.3812497 h -9.525 v 9.5249997 h 9.525 z m -6.35,3.5718747 h -1.587501 v 1.5875 h 1.587501 z m 2.38125,0 h -1.587501 v 1.5875 h 1.587501 z m 2.38125,0 h -1.587501 v 1.5875 h 1.587501 z m -4.7625,2.38125 h -1.587501 v 1.5875 h 1.587501 z m 2.38125,0 h -1.587501 v 1.5875 h 1.587501 z"
        id="path2"
