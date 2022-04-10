@@ -45,11 +45,11 @@
        inkscape:collect="always"
        id="linearGradient27869">
       <stop
-         style="stop-color:#eeeeee;stop-opacity:1"
+         style="stop-color:#fefefe;stop-opacity:1"
          offset="0"
          id="stop27865" />
       <stop
-         style="stop-color:#dcdcdc;stop-opacity:1"
+         style="stop-color:#ececec;stop-opacity:1"
          offset="1"
          id="stop27867" />
     </linearGradient>
@@ -350,7 +350,7 @@
          id="tspan10856">and other fields.</tspan></text>
     <path
        id="rect47994"
-       style="fill:#ffffff;fill-rule:evenodd;stroke-width:0;stroke-linejoin:round;paint-order:markers stroke fill;filter:url(#filter975)"
+       style="fill:#50dc71;fill-rule:evenodd;stroke-width:0;stroke-linejoin:round;paint-order:markers stroke fill;filter:url(#filter975);fill-opacity:1"
        d="m 32.808334,71.966667 h 47.625 v 11.90625 h -47.625 z" />
     <path
        d="m 41.275,77.7875 v 2.645834 H 35.71875 V 75.40625 h 3.175 v 0.529167 h -2.645833 v 3.96875 h 4.497916 V 77.7875 Z m 0.79375,-3.175 h -2.907242 l 1.067594,1.058334 -1.845998,1.870604 0.748242,0.748241 1.845998,-1.870604 1.091406,1.103842 z"
