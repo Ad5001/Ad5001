@@ -29,12 +29,12 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.866066"
-     inkscape:cx="197.47426"
-     inkscape:cy="156.47892"
+     inkscape:zoom="0.933033"
+     inkscape:cx="149.5124"
+     inkscape:cy="95.387837"
      inkscape:window-width="1920"
-     inkscape:window-height="1009"
-     inkscape:window-x="0"
+     inkscape:window-height="1007"
+     inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2"
@@ -206,6 +206,78 @@
          result="composite2"
          id="feComposite56182" />
     </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter975"
+       x="-0.01007874"
+       y="-0.040314961"
+       width="1.0201575"
+       height="1.0806299">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood965" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite967" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.2"
+         result="blur"
+         id="feGaussianBlur969" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset971" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite973" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter1133"
+       x="-0.012716168"
+       y="-0.015729827"
+       width="1.0254323"
+       height="1.0314597">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood1123" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite1125" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.6"
+         result="blur"
+         id="feGaussianBlur1127" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset1129" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite1131" />
+    </filter>
   </defs>
   <g
      inkscape:groupmode="layer"
@@ -213,7 +285,7 @@
      inkscape:label="Calque 2"
      style="display:inline">
     <rect
-       style="fill:url(#linearGradient27871);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter28193)"
+       style="fill:url(#linearGradient27871);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter1133)"
        id="rect26993"
        width="113.24167"
        height="91.54583"
@@ -278,7 +350,7 @@
          id="tspan10856">and other fields.</tspan></text>
     <path
        id="rect47994"
-       style="fill:#ffffff;fill-rule:evenodd;stroke-width:0;stroke-linejoin:round;paint-order:markers stroke fill;filter:url(#filter56184)"
+       style="fill:#ffffff;fill-rule:evenodd;stroke-width:0;stroke-linejoin:round;paint-order:markers stroke fill;filter:url(#filter975)"
        d="m 32.808334,71.966667 h 47.625 v 11.90625 h -47.625 z" />
     <path
        d="m 41.275,77.7875 v 2.645834 H 35.71875 V 75.40625 h 3.175 v 0.529167 h -2.645833 v 3.96875 h 4.497916 V 77.7875 Z m 0.79375,-3.175 h -2.907242 l 1.067594,1.058334 -1.845998,1.870604 0.748242,0.748241 1.845998,-1.870604 1.091406,1.103842 z"
