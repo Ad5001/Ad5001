@@ -3,8 +3,8 @@
 Welcome to my Github profile! Please keep in mind this is only a mirror for all my repositories over on <a href="https://git.ad5001.eu/Ad5001"><img src="https://github.com/Ad5001/Ad5001/blob/main/icons/git.svg" alt="git icon" width="16" /> Gitea</a>.
   
 [![Learn more about me](https://github.com/Ad5001/Ad5001/blob/main/aboutme/optimized.svg)](https://ad5001.eu/about/)
-[![Mirror of Gitea](https://raw.githubusercontent.com/Ad5001/Ad5001/main/gitea/optimized.svg?token=GHSAT0AAAAAABTNQOYTCQEMPHOWCNB4G6T2YSTI3HQ)](https://git.ad5001.eu/Ad5001/)
-[![Link to applications website](https://raw.githubusercontent.com/Ad5001/Ad5001/main/apps/optimized.svg?token=GHSAT0AAAAAABTNQOYS2EKSZS6455RGNTOEYSTJ4QA)](https://apps.ad5001.eu/)
+[![Mirror of Gitea](https://raw.githubusercontent.com/Ad5001/Ad5001/main/gitea/optimized.svg)](https://git.ad5001.eu/Ad5001/)
+[![Link to applications website](https://raw.githubusercontent.com/Ad5001/Ad5001/main/apps/optimized.svg)](https://apps.ad5001.eu/)
 
 
 ### Contact me
