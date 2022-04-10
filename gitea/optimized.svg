@@ -1,0 +1,27 @@
+<svg width="113.4mm" height="92.3mm" version="1.1" viewBox="0 0 113.4 92.3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title>Gitea - Ad5001 Github</title>
+ <defs>
+  <linearGradient id="a" x1="5e-7" x2="113.24" y1="8.1294e-6" y2="91.546" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#032b67" stop-opacity=".89866" offset="0"/>
+   <stop stop-color="#040d21" offset="1"/>
+  </linearGradient>
+  <filter id="b" x="-.012716" y="-.01573" width="1.0254" height="1.0315" color-interpolation-filters="sRGB">
+   <feFlood flood-color="rgb(0,0,0)" result="flood"/>
+   <feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1"/>
+   <feGaussianBlur in="composite1" result="blur" stdDeviation="0.6"/>
+   <feOffset dx="0" dy="0" result="offset"/>
+   <feComposite in="SourceGraphic" in2="offset" result="composite2"/>
+  </filter>
+ </defs>
+ <g>
+  <g>
+   <rect transform="matrix(.97183 0 0 .97183 1.6327 1.6327)" x="5e-7" y="8.1294e-6" width="113.24" height="91.546" fill="url(#a)" fill-rule="evenodd" filter="url(#b)" style="paint-order:markers stroke fill"/>
+   <text x="56.800751" y="16.0655" fill="#ffffff" font-family="sans-serif" font-size="6.35px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="56.800751" y="16.0655" fill="#ffffff" font-size="6.35px" stroke-width=".26458">Gitea</tspan></text>
+   <text x="7.1014166" y="28.701998" fill="#ffffff" font-family="sans-serif" font-size="4.2333px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="7.1014166" y="28.701998">The majority of the software I create is available on</tspan><tspan x="7.1014166" y="33.99366">Github. </tspan><tspan x="7.1014166" y="39.285324"/><tspan x="7.1014166" y="44.576984">However, most of the developement, as well as </tspan><tspan x="7.1014166" y="49.868645">accepted contributions, are done on my self-hosted</tspan><tspan x="7.1014166" y="55.160309">Gitea instance, available at git.ad5001.eu.</tspan><tspan x="7.1014166" y="60.451973"/><tspan x="7.1014166" y="65.743637">CI and CD are done via Drone CI at ci.ad5001.eu.</tspan></text>
+   <path d="m26.723 71.967h59.531v11.906h-59.531z" fill="#fff" fill-rule="evenodd" stroke-width="0" style="paint-order:markers stroke fill"/>
+  </g>
+  <path d="m35.19 77.788v2.6458h-5.5562v-5.0271h3.175v0.52917h-2.6458v3.9688h4.4979v-2.1167zm0.79375-3.175h-2.9072l1.0676 1.0583-1.846 1.8706 0.74824 0.74824 1.846-1.8706 1.0914 1.1038z" stroke-width=".26458"/>
+  <text x="38.86729" y="79.830345" fill="#000000" font-family="sans-serif" font-size="5.5562px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="38.86729" y="79.830345" font-size="5.5562px" stroke-width=".26458">MY GITEA PROFILE</tspan></text>
+  <path d="m52.737 13.334-4.1589-4.1585c-0.11985-0.11986-0.27702-0.17978-0.43378-0.17978-0.15716 0-0.31393 0.059928-0.43378 0.17978l-0.8636 0.8636 1.0954 1.0954c0.2548-0.08573 0.5465-0.02818 0.7497 0.17462 0.2036 0.20439 0.26114 0.49848 0.17264 0.75406l1.0557 1.0557c0.25559-0.08811 0.55046-0.03096 0.75446 0.17343 0.28496 0.28496 0.28496 0.74652 0 1.0319-0.28535 0.28535-0.74732 0.28535-1.0327 0-0.21431-0.21471-0.26749-0.52943-0.15875-0.79375l-0.98465-0.98465v2.5912c0.06945 0.03453 0.13494 0.08017 0.19328 0.13811 0.28456 0.28456 0.28456 0.74652 0 1.0323-0.28535 0.28496-0.74771 0.28496-1.0323 0-0.28535-0.28575-0.28535-0.74771 0-1.0323 0.07024-0.07064 0.152-0.12382 0.23892-0.15954v-2.615c-0.08691-0.03532-0.16867-0.0885-0.23892-0.15915-0.2159-0.2159-0.26829-0.533-0.15716-0.79812l-1.0799-1.0799-2.8515 2.8515c-0.11985 0.11986-0.17978 0.27662-0.17978 0.43378 0 0.15677 0.05993 0.31393 0.17978 0.43378l4.1589 4.1585c0.11985 0.11986 0.27662 0.17939 0.43339 0.17939 0.15716 0 0.31393-0.05953 0.43378-0.17939l4.1398-4.1386c0.11985-0.12025 0.17939-0.27742 0.17939-0.43418 0-0.15716-0.05953-0.31393-0.17939-0.43378" fill="#fff" stroke-width=".39687"/>
+ </g>
+</svg>
