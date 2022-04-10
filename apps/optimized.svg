@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg id="svg979" width="113.4mm" height="92.3mm" version="1.1" viewBox="0 0 113.4 92.3" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg id="svg979" width="381" height="348" version="1.1" viewBox="0 0 100.81 92.075" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
  <title id="title867">Apps - Ad5001 Github</title>
  <defs id="defs976">
-  <linearGradient id="linearGradient27871" x1="5e-7" x2="113.24" y1="8.1294e-6" y2="91.546" gradientUnits="userSpaceOnUse">
+  <linearGradient id="linearGradient27871" x1="5e-7" x2="113.24" y1="8.1294e-6" y2="91.546" gradientTransform="matrix(.86449 0 0 .97183 1.6327 1.6327)" gradientUnits="userSpaceOnUse">
    <stop id="stop27865" stop-color="#24aaff" stop-opacity=".89804" offset="0"/>
    <stop id="stop27867" stop-color="#2850c8" offset="1"/>
   </linearGradient>
-  <filter id="filter1133" x="-.012716" y="-.01573" width="1.0254" height="1.0315" color-interpolation-filters="sRGB">
-   <feFlood id="feFlood1123" flood-color="rgb(0,0,0)" result="flood"/>
-   <feComposite id="feComposite1125" in="flood" in2="SourceGraphic" operator="in" result="composite1"/>
-   <feGaussianBlur id="feGaussianBlur1127" in="composite1" result="blur" stdDeviation="0.6"/>
-   <feOffset id="feOffset1129" dx="0" dy="0" result="offset"/>
-   <feComposite id="feComposite1131" in="SourceGraphic" in2="offset" result="composite2"/>
-  </filter>
   <filter id="filter6467" x="-.008438" y="-.040315" width="1.0169" height="1.0806" color-interpolation-filters="sRGB">
    <feFlood id="feFlood6457" flood-color="rgb(0,0,0)" result="flood"/>
    <feComposite id="feComposite6459" in="flood" in2="SourceGraphic" operator="in" result="composite1"/>
@@ -21,14 +14,21 @@
    <feOffset id="feOffset6463" dx="0" dy="0" result="offset"/>
    <feComposite id="feComposite6465" in="SourceGraphic" in2="offset" result="composite2"/>
   </filter>
+  <filter id="filter1156" x="-.01471" y="-.016186" width="1.0294" height="1.0324" color-interpolation-filters="sRGB">
+   <feFlood id="feFlood1146" flood-color="rgb(0,0,0)" result="flood"/>
+   <feComposite id="feComposite1148" in="flood" in2="SourceGraphic" operator="in" result="composite1"/>
+   <feGaussianBlur id="feGaussianBlur1150" in="composite1" result="blur" stdDeviation="0.6"/>
+   <feOffset id="feOffset1152" dx="0" dy="0" result="offset"/>
+   <feComposite id="feComposite1154" in="SourceGraphic" in2="offset" result="composite2"/>
+  </filter>
  </defs>
  <g id="layer2">
-  <rect id="rect26993" transform="matrix(.97183 0 0 .97183 1.6327 1.6327)" x="5e-7" y="8.1294e-6" width="113.24" height="91.546" fill="url(#linearGradient27871)" fill-rule="evenodd" filter="url(#filter1133)" style="paint-order:markers stroke fill"/>
-  <text id="text22781" x="56.800751" y="16.0655" fill="#fefefe" font-family="sans-serif" font-size="6.35px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan22779" x="56.800751" y="16.0655" fill="#fefefe" font-size="6.35px" stroke-width=".26458">Apps</tspan></text>
-  <text id="text29203" x="7.1014166" y="28.701998" fill="#ffffff" font-family="sans-serif" font-size="4.2333px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan15652" x="7.1014166" y="28.701998">You can find the majority of software I'm currently</tspan><tspan id="tspan6289" x="7.1014166" y="33.99366">creating over at my Apps website.</tspan><tspan id="tspan7453" x="7.1014166" y="39.285324"/><tspan id="tspan6291" x="7.1014166" y="44.576984">Keep in mind, however, that some of them have</tspan><tspan id="tspan6293" x="7.1014166" y="49.868645">yet to be released, and as such, do not possess any</tspan><tspan id="tspan6295" x="7.1014166" y="55.160309">download link on their dedicated page.</tspan></text>
-  <path id="rect47994" d="m28.31 71.967h56.885v11.906h-56.885z" fill="#fff" fill-rule="evenodd" filter="url(#filter6467)" stroke-width="0" style="paint-order:markers stroke fill"/>
-  <path id="path2-2" d="m36.777 77.788v2.6458h-5.5562v-5.0271h3.175v0.52917h-2.6458v3.9688h4.4979v-2.1167zm0.79375-3.175h-2.9072l1.0676 1.0583-1.846 1.8706 0.74824 0.74824 1.846-1.8706 1.0914 1.1038z" stroke-width=".26458"/>
-  <g id="text50436" stroke-width=".26458" aria-label="APPS WEBSITE">
+  <rect id="rect26993" x="1.6327" y="1.6327" width="97.896" height="88.967" fill="url(#linearGradient27871)" fill-rule="evenodd" filter="url(#filter1156)" style="paint-order:markers stroke fill"/>
+  <text id="text22781" x="49.921585" y="16.0655" fill="#fefefe" font-family="sans-serif" font-size="6.35px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan22779" x="49.921585" y="16.0655" fill="#fefefe" font-size="6.35px" stroke-width=".26458">Apps</tspan></text>
+  <text id="text29203" x="5.5350833" y="28.701998" fill="#ffffff" font-family="sans-serif" font-size="4.2333px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan15652" x="5.5350833" y="28.701998">You can find the majority of software I'm</tspan><tspan id="tspan6289" x="5.5350833" y="33.99366">currently creating over at my Apps website.</tspan><tspan id="tspan7453" x="5.5350833" y="39.285324"/><tspan id="tspan6291" x="5.5350833" y="44.576984">Keep in mind, however, that some of them</tspan><tspan id="tspan6293" x="5.5350833" y="49.868645">have yet to be released, and as such, do not</tspan><tspan id="tspan6295" x="5.5350833" y="55.160309">possess any download link on their dedicated</tspan><tspan id="tspan8231" x="5.5350833" y="60.451973">page.</tspan></text>
+  <path id="rect47994" d="m21.911 71.967h56.885v11.906h-56.885z" fill="#fff" fill-rule="evenodd" filter="url(#filter6467)" stroke-width="0" style="paint-order:markers stroke fill"/>
+  <path id="path2-2" d="m30.378 77.788v2.6458h-5.5562v-5.0271h3.175v0.52917h-2.6458v3.9688h4.4979v-2.1167zm0.79375-3.175h-2.9072l1.0676 1.0583-1.846 1.8706 0.74824 0.74824 1.846-1.8706 1.0914 1.1038z" stroke-width=".26458"/>
+  <g id="text50436" transform="translate(-6.3992)" stroke-width=".26458" aria-label="APPS WEBSITE">
    <path id="path1972" d="m44 79.83h0.47228l-1.6835-3.8171h-0.47228l-1.6835 3.8171h0.47228l0.38338-0.86678h2.128zm-2.3336-1.2779 0.889-2.0058 0.88344 2.0058z"/>
    <path id="path1974" d="m45.089 79.83h0.43339v-1.3724h1.1168c0.78899 0 1.4057-0.50562 1.4057-1.2224 0-0.71676-0.61674-1.2224-1.4057-1.2224h-1.5502zm0.43339-1.7836v-1.6224h1.039c0.6223 0 1.0446 0.30004 1.0446 0.81121s-0.42228 0.81121-1.0446 0.81121z"/>
    <path id="path1976" d="m48.667 79.83h0.43339v-1.3724h1.1168c0.78899 0 1.4057-0.50562 1.4057-1.2224 0-0.71676-0.61674-1.2224-1.4057-1.2224h-1.5502zm0.43339-1.7836v-1.6224h1.039c0.6223 0 1.0446 0.30004 1.0446 0.81121s-0.42228 0.81121-1.0446 0.81121z"/>
@@ -41,7 +41,7 @@
    <path id="path1990" d="m76.354 79.83h0.43339v-3.406h1.2835v-0.41116h-3.0004v0.41116h1.2835z"/>
    <path id="path1992" d="m81.499 76.424v-0.41116h-2.7392v3.8171h2.7392v-0.41116h-2.3003v-1.3279h2.0725v-0.41116h-2.0725v-1.2557z"/>
   </g>
-  <path id="path2" d="m52.123 11.377v6.35h-7.9375v-6.35zm0.79375-2.3812h-9.525v9.525h9.525zm-6.35 3.5719h-1.5875v1.5875h1.5875zm2.3812 0h-1.5875v1.5875h1.5875zm2.3812 0h-1.5875v1.5875h1.5875zm-4.7625 2.3812h-1.5875v1.5875h1.5875zm2.3812 0h-1.5875v1.5875h1.5875z" fill="#f7f7f7" stroke-width=".39687"/>
+  <path id="path2" d="m45.244 11.377v6.35h-7.9375v-6.35zm0.79375-2.3812h-9.525v9.525h9.525zm-6.35 3.5719h-1.5875v1.5875h1.5875zm2.3812 0h-1.5875v1.5875h1.5875zm2.3812 0h-1.5875v1.5875h1.5875zm-4.7625 2.3812h-1.5875v1.5875h1.5875zm2.3812 0h-1.5875v1.5875h1.5875z" fill="#f7f7f7" stroke-width=".39687"/>
  </g>
  <metadata id="metadata865">
   <rdf:RDF>

@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="113.4mm"
-   height="92.300003mm"
-   viewBox="0 0 113.4 92.300003"
+   width="381"
+   height="348"
+   viewBox="0 0 100.80625 92.075001"
    version="1.1"
    id="svg979"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
@@ -38,7 +38,8 @@
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2"
-     width="114mm" />
+     width="381px"
+     units="px" />
   <defs
      id="defs976">
     <linearGradient
@@ -61,42 +62,43 @@
        y1="8.1293947e-06"
        x2="113.24167"
        y2="91.545837"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.86448597,0,0,0.97109832,1.6326753,1.6326678)" />
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
-       id="filter1133"
-       x="-0.012716168"
-       y="-0.015729827"
-       width="1.0254323"
-       height="1.0314597">
+       id="filter971"
+       x="-0.014709513"
+       y="-0.016197976"
+       width="1.029419"
+       height="1.032396">
       <feFlood
          flood-opacity="1"
          flood-color="rgb(0,0,0)"
          result="flood"
-         id="feFlood1123" />
+         id="feFlood961" />
       <feComposite
          in="flood"
          in2="SourceGraphic"
          operator="in"
          result="composite1"
-         id="feComposite1125" />
+         id="feComposite963" />
       <feGaussianBlur
          in="composite1"
          stdDeviation="0.6"
          result="blur"
-         id="feGaussianBlur1127" />
+         id="feGaussianBlur965" />
       <feOffset
          dx="0"
          dy="0"
          result="offset"
-         id="feOffset1129" />
+         id="feOffset967" />
       <feComposite
          in="SourceGraphic"
          in2="offset"
          operator="over"
          result="composite2"
-         id="feComposite1131" />
+         id="feComposite969" />
     </filter>
   </defs>
   <g
@@ -105,83 +107,82 @@
      inkscape:label="Calque 2"
      style="display:inline">
     <rect
-       style="fill:url(#linearGradient27871);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter1133)"
+       style="fill:url(#linearGradient27871);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter971)"
        id="rect26993"
-       width="113.24167"
-       height="91.54583"
-       x="5e-07"
-       y="8.1293947e-06"
-       transform="matrix(0.97183081,0,0,0.97183081,1.6326752,1.6326678)" />
+       width="97.895836"
+       height="88.900002"
+       x="1.6326756"
+       y="1.6326756" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="56.800751"
+       x="49.657001"
        y="16.0655"
        id="text22781"><tspan
          sodipodi:role="line"
          id="tspan22779"
          style="font-size:6.35px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         x="56.800751"
+         x="49.657001"
          y="16.0655">Gitea</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="7.1014166"
+       x="5.4927502"
        y="28.701998"
        id="text29203"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         x="7.1014166"
+         x="5.4927502"
          y="28.701998"
-         id="tspan3838">The majority of the software I create is available on</tspan><tspan
+         id="tspan3838">The majority of the software I create is </tspan><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         x="7.1014166"
+         x="5.4927502"
          y="33.99366"
-         id="tspan23064">Github. </tspan><tspan
+         id="tspan23064">available on Github. </tspan><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         x="7.1014166"
+         x="5.4927502"
          y="39.285324"
          id="tspan19504" /><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         x="7.1014166"
+         x="5.4927502"
          y="44.576984"
-         id="tspan6722">However, most of the developement, as well as </tspan><tspan
+         id="tspan6722">However, most of the developement, as well</tspan><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         x="7.1014166"
+         x="5.4927502"
          y="49.868645"
-         id="tspan3840">accepted contributions, are done on my self-hosted</tspan><tspan
+         id="tspan3840">as  accepted contributions, are done on my</tspan><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         x="7.1014166"
+         x="5.4927502"
          y="55.160309"
-         id="tspan18088">Gitea instance, available at git.ad5001.eu.</tspan><tspan
+         id="tspan18088">self-hosted Gitea instance, at git.ad5001.eu.</tspan><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         x="7.1014166"
+         x="5.4927502"
          y="60.451973"
          id="tspan33732" /><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         x="7.1014166"
+         x="5.4927502"
          y="65.743637"
-         id="tspan15652">CI and CD are done via Drone CI at ci.ad5001.eu.</tspan></text>
+         id="tspan15652">CI and CD are done via Drone CI ci.ad5001.eu.</tspan></text>
     <path
        id="rect47994"
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0;stroke-linejoin:round;paint-order:markers stroke fill"
-       d="m 22.489583,71.966667 h 67.46875 v 11.90625 h -67.46875 z" />
+       d="m 16.404167,71.966667 h 67.46875 v 11.90625 h -67.46875 z" />
     <path
-       d="m 30.956249,77.7875 v 2.645834 h -5.55625 V 75.40625 h 3.175 v 0.529167 h -2.645833 v 3.96875 h 4.497916 V 77.7875 Z m 0.79375,-3.175 h -2.907242 l 1.067594,1.058334 -1.845998,1.870604 0.748242,0.748241 1.845998,-1.870604 1.091406,1.103842 z"
+       d="m 24.870833,77.7875 v 2.645834 h -5.55625 V 75.40625 h 3.175 v 0.529167 H 19.84375 v 3.96875 h 4.497916 V 77.7875 Z m 0.79375,-3.175 h -2.907242 l 1.067594,1.058334 -1.845998,1.870604 0.748242,0.748241 1.845998,-1.870604 1.091406,1.103842 z"
        id="path2-2"
        style="stroke-width:0.264583" />
     <g
        aria-label="MY GITEA PROFILE"
        id="text50436"
        style="font-size:5.55625px;line-height:1.25;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       transform="translate(0.03333533,-0.01110933)">
+       transform="translate(-6.052081,-0.01110933)">
       <path
          d="m 35.156248,79.830345 h 0.433388 v -2.883694 l 1.416844,2.661444 1.416843,-2.661444 v 2.883694 h 0.433388 v -3.817144 h -0.433388 l -1.416843,2.661444 -1.416844,-2.661444 h -0.433388 z"
          style="font-family:Metropolis;-inkscape-font-specification:Metropolis"
@@ -240,7 +241,7 @@
          id="path4857" />
     </g>
     <path
-       d="M 52.737279,13.334074 48.578427,9.1756177 c -0.11985,-0.1198562 -0.27702,-0.1797844 -0.433785,-0.1797844 -0.157163,0 -0.313927,0.059928 -0.433785,0.1797844 l -0.8636,0.8636003 1.095375,1.095375 c 0.254795,-0.08573 0.546497,-0.02818 0.749697,0.174625 0.203597,0.20439 0.261144,0.498475 0.172641,0.754062 l 1.055687,1.055688 c 0.255588,-0.08811 0.550465,-0.03096 0.754459,0.173434 0.284957,0.284956 0.284957,0.746522 0,1.031875 -0.285352,0.285353 -0.747315,0.285353 -1.032669,0 -0.214312,-0.214709 -0.267493,-0.529431 -0.158749,-0.79375 L 48.499052,12.54588 v 2.591197 c 0.06945,0.03453 0.13494,0.08017 0.193277,0.138113 0.284559,0.284559 0.284559,0.746522 0,1.032271 -0.285352,0.284957 -0.747712,0.284957 -1.032271,0 -0.285354,-0.285749 -0.285354,-0.747712 0,-1.032271 0.07024,-0.07064 0.152003,-0.123825 0.238918,-0.159544 v -2.615009 c -0.08691,-0.03532 -0.168672,-0.0885 -0.238918,-0.159147 -0.215901,-0.2159 -0.268289,-0.533003 -0.157162,-0.798116 l -1.079899,-1.079897 -2.851546,2.851547 c -0.11985,0.119856 -0.179784,0.276622 -0.179784,0.433784 0,0.156766 0.05993,0.313929 0.179784,0.433785 l 4.158854,4.158456 c 0.11985,0.119856 0.276622,0.179388 0.433387,0.179388 0.157163,0 0.313928,-0.05953 0.433785,-0.179388 l 4.139802,-4.138612 c 0.11985,-0.120254 0.179388,-0.277416 0.179388,-0.434182 0,-0.157162 -0.05953,-0.313928 -0.179388,-0.433784"
+       d="M 45.593529,13.334074 41.434677,9.1756177 c -0.11985,-0.1198562 -0.27702,-0.1797844 -0.433785,-0.1797844 -0.157163,0 -0.313927,0.059928 -0.433785,0.1797844 l -0.8636,0.8636003 1.095375,1.095375 c 0.254795,-0.08573 0.546497,-0.02818 0.749697,0.174625 0.203597,0.20439 0.261144,0.498475 0.172641,0.754062 l 1.055687,1.055688 c 0.255588,-0.08811 0.550465,-0.03096 0.754459,0.173434 0.284957,0.284956 0.284957,0.746522 0,1.031875 -0.285352,0.285353 -0.747315,0.285353 -1.032669,0 -0.214312,-0.214709 -0.267493,-0.529431 -0.158749,-0.79375 L 41.355302,12.54588 v 2.591197 c 0.06945,0.03453 0.13494,0.08017 0.193277,0.138113 0.284559,0.284559 0.284559,0.746522 0,1.032271 -0.285352,0.284957 -0.747712,0.284957 -1.032271,0 -0.285354,-0.285749 -0.285354,-0.747712 0,-1.032271 0.07024,-0.07064 0.152003,-0.123825 0.238918,-0.159544 v -2.615009 c -0.08691,-0.03532 -0.168672,-0.0885 -0.238918,-0.159147 -0.215901,-0.2159 -0.268289,-0.533003 -0.157162,-0.798116 l -1.079899,-1.079897 -2.851546,2.851547 c -0.11985,0.119856 -0.179784,0.276622 -0.179784,0.433784 0,0.156766 0.05993,0.313929 0.179784,0.433785 l 4.158854,4.158456 c 0.11985,0.119856 0.276622,0.179388 0.433387,0.179388 0.157163,0 0.313928,-0.05953 0.433785,-0.179388 l 4.139802,-4.138612 c 0.11985,-0.120254 0.179388,-0.277416 0.179388,-0.434182 0,-0.157162 -0.05953,-0.313928 -0.179388,-0.433784"
        id="path2-3"
        style="fill:#ffffff;stroke-width:0.396874" />
   </g>

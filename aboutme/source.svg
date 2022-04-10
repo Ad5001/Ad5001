@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="113.4mm"
-   height="92.300003mm"
-   viewBox="0 0 113.4 92.300003"
+   width="381"
+   height="348"
+   viewBox="0 0 100.80625 92.075001"
    version="1.1"
    id="svg979"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
@@ -30,7 +30,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.866066"
-     inkscape:cx="269.81897"
+     inkscape:cx="225.34037"
      inkscape:cy="179.52205"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
@@ -38,7 +38,8 @@
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2"
-     width="114mm" />
+     width="114mm"
+     units="px" />
   <defs
      id="defs976">
     <linearGradient
@@ -97,7 +98,8 @@
        y1="8.1293947e-06"
        x2="113.24167"
        y2="91.545837"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.86448588,0,0,0.97183081,1.6326752,1.6326678)" />
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
@@ -171,7 +173,7 @@
          id="feComposite28191-9" />
     </filter>
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter56184"
        x="-0.02519685"
@@ -207,7 +209,7 @@
          id="feComposite56182" />
     </filter>
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter975"
        x="-0.01007874"
@@ -243,11 +245,11 @@
          id="feComposite973" />
     </filter>
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter1133"
        x="-0.012716168"
-       y="-0.015729827"
+       y="-0.015729828"
        width="1.0254323"
        height="1.0314597">
       <feFlood
@@ -279,7 +281,7 @@
          id="feComposite1131" />
     </filter>
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter7571"
        x="-0.0093034526"
@@ -314,6 +316,78 @@
          result="composite2"
          id="feComposite7569" />
     </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter1141"
+       x="-0.014709513"
+       y="-0.016185766"
+       width="1.0294189"
+       height="1.0323715">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood1131" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite1133" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.6"
+         result="blur"
+         id="feGaussianBlur1135" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset1137" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite1139" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter1359"
+       x="-0.014709513"
+       y="-0.016185767"
+       width="1.029419"
+       height="1.0323715">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood1349" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite1351" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.6"
+         result="blur"
+         id="feGaussianBlur1353" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset1355" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite1357" />
+    </filter>
   </defs>
   <g
      inkscape:groupmode="layer"
@@ -321,82 +395,81 @@
      inkscape:label="Calque 2"
      style="display:inline">
     <rect
-       style="fill:url(#linearGradient27871);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter1133)"
+       style="fill:url(#linearGradient27871);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter1359)"
        id="rect26993"
-       width="113.24167"
-       height="91.54583"
-       x="5e-07"
-       y="8.1293947e-06"
-       transform="matrix(0.97183081,0,0,0.97183081,1.6326752,1.6326678)" />
+       width="97.895836"
+       height="88.967056"
+       x="1.6326756"
+       y="1.6326756" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="50.497318"
+       x="43.353569"
        y="16.139584"
        id="text22781"><tspan
          sodipodi:role="line"
          id="tspan22779"
          style="font-size:6.35px;stroke-width:0.264583"
-         x="50.497318"
+         x="43.353569"
          y="16.139584">About me</tspan></text>
     <path
-       d="m 45.306041,16.178083 c -1.364925,-0.315135 -2.635395,-0.591375 -2.020208,-1.753493 1.873366,-3.537152 0.496531,-5.4287567 -1.481213,-5.4287567 -2.017025,0 -3.359327,1.9642427 -1.481225,5.4287567 0.633847,1.168868 -0.684638,1.445108 -2.02019,1.753493 -1.219673,0.281791 -1.26532,0.887468 -1.261345,1.946386 l 0.0015,0.396893 h 9.521549 l 0.0015,-0.384585 c 0.0045,-1.066861 -0.03645,-1.675703 -1.260548,-1.958694 z"
+       d="m 38.162291,16.178083 c -1.364925,-0.315135 -2.635395,-0.591375 -2.020208,-1.753493 1.873366,-3.537152 0.496531,-5.4287567 -1.481213,-5.4287567 -2.017025,0 -3.359327,1.9642427 -1.481225,5.4287567 0.633847,1.168868 -0.684638,1.445108 -2.02019,1.753493 -1.219673,0.281791 -1.26532,0.887468 -1.261345,1.946386 l 0.0015,0.396893 h 9.521549 l 0.0015,-0.384585 c 0.0045,-1.066861 -0.03645,-1.675703 -1.260548,-1.958694 z"
        id="path2"
        style="stroke-width:0.396896" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="7.1014166"
+       x="5.5308499"
        y="28.701998"
        id="text29203"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;stroke-width:0.264583"
-         x="7.1014166"
+         x="5.5308499"
          y="28.701998"
-         id="tspan2482">Currently a student, I have been programming as</tspan><tspan
+         id="tspan2482">Currently a student, I have been programming</tspan><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;stroke-width:0.264583"
-         x="7.1014166"
+         x="5.5308499"
          y="33.99366"
-         id="tspan10846">a hobby for 6 years, mainly in open source.</tspan><tspan
+         id="tspan10846">as a hobby for 6 years, mainly in open source.</tspan><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;stroke-width:0.264583"
-         x="7.1014166"
+         x="5.5308499"
          y="39.285324"
          id="tspan10848" /><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;stroke-width:0.264583"
-         x="7.1014166"
+         x="5.5308499"
          y="44.576984"
-         id="tspan10850">Across those years, I've created several projects,</tspan><tspan
+         id="tspan10850">Across those years, I've created several</tspan><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;stroke-width:0.264583"
-         x="7.1014166"
+         x="5.5308499"
          y="49.868645"
-         id="tspan10852">and acquired many skills related to software</tspan><tspan
+         id="tspan10852">projects, and acquired many skills related to</tspan><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;stroke-width:0.264583"
-         x="7.1014166"
+         x="5.5308499"
          y="55.160309"
-         id="tspan10854">development, as well as system administration</tspan><tspan
+         id="tspan10854">software development, as well as system</tspan><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;stroke-width:0.264583"
-         x="7.1014166"
+         x="5.5308499"
          y="60.451973"
-         id="tspan10856">and other fields.</tspan></text>
+         id="tspan10856">administration and other fields.</tspan></text>
     <path
        id="rect47994"
        style="fill:#50dc71;fill-opacity:1;fill-rule:evenodd;stroke-width:0;stroke-linejoin:round;paint-order:markers stroke fill;filter:url(#filter7571)"
-       d="M 30.95625,71.966667 H 82.55 v 11.90625 H 30.95625 Z" />
+       d="m 24.557083,71.966713 h 51.59375 v 11.90625 h -51.59375 z" />
     <path
-       d="m 39.422916,77.7875 v 2.645834 h -5.55625 V 75.40625 h 3.175 v 0.529167 h -2.645833 v 3.96875 h 4.497916 V 77.7875 Z m 0.79375,-3.175 h -2.907242 l 1.067594,1.058334 -1.845998,1.870604 0.748242,0.748241 1.845998,-1.870604 1.091406,1.103842 z"
+       d="m 33.023749,77.787546 v 2.645834 h -5.55625 v -5.027084 h 3.175 v 0.529167 h -2.645833 v 3.96875 h 4.497916 v -2.116667 z m 0.79375,-3.175 h -2.907242 l 1.067594,1.058334 -1.845998,1.870604 0.748242,0.748241 1.845998,-1.870604 1.091406,1.103842 z"
        id="path2-2"
        style="stroke-width:0.264583" />
     <g
        aria-label="LEARN MORE"
        id="text50436"
        style="font-size:5.55625px;line-height:1.25;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       transform="matrix(1.0021974,0,0,1,-0.18232188,-0.01110933)">
+       transform="matrix(1.0021974,0,0,1,-6.5814882,-0.01106382)">
       <path
          d="m 43.911837,79.419183 v -3.405982 h -0.433388 v 3.817144 h 2.516981 v -0.411162 z"
          style="font-family:Metropolis;-inkscape-font-specification:Metropolis"

@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg id="svg979" width="113.4mm" height="92.3mm" version="1.1" viewBox="0 0 113.4 92.3" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg id="svg979" width="381" height="348" version="1.1" viewBox="0 0 100.81 92.075" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
  <title id="title867">About me - Ad5001 Github</title>
  <defs id="defs976">
-  <linearGradient id="linearGradient27871" x1="5e-7" x2="113.24" y1="8.1294e-6" y2="91.546" gradientUnits="userSpaceOnUse">
+  <linearGradient id="linearGradient27871" x1="5e-7" x2="113.24" y1="8.1294e-6" y2="91.546" gradientTransform="matrix(.86449 0 0 .97183 1.6327 1.6327)" gradientUnits="userSpaceOnUse">
    <stop id="stop27865" stop-color="#fefefe" offset="0"/>
    <stop id="stop27867" stop-color="#ececec" offset="1"/>
   </linearGradient>
-  <filter id="filter1133" x="-.012716" y="-.01573" width="1.0254" height="1.0315" color-interpolation-filters="sRGB">
-   <feFlood id="feFlood1123" flood-color="rgb(0,0,0)" result="flood"/>
-   <feComposite id="feComposite1125" in="flood" in2="SourceGraphic" operator="in" result="composite1"/>
-   <feGaussianBlur id="feGaussianBlur1127" in="composite1" result="blur" stdDeviation="0.6"/>
-   <feOffset id="feOffset1129" dx="0" dy="0" result="offset"/>
-   <feComposite id="feComposite1131" in="SourceGraphic" in2="offset" result="composite2"/>
-  </filter>
   <filter id="filter7571" x="-.0093035" y="-.040315" width="1.0186" height="1.0806" color-interpolation-filters="sRGB">
    <feFlood id="feFlood7561" flood-color="rgb(0,0,0)" result="flood"/>
    <feComposite id="feComposite7563" in="flood" in2="SourceGraphic" operator="in" result="composite1"/>
@@ -21,15 +14,22 @@
    <feOffset id="feOffset7567" dx="0" dy="0" result="offset"/>
    <feComposite id="feComposite7569" in="SourceGraphic" in2="offset" result="composite2"/>
   </filter>
+  <filter id="filter1359" x="-.01471" y="-.016186" width="1.0294" height="1.0324" color-interpolation-filters="sRGB">
+   <feFlood id="feFlood1349" flood-color="rgb(0,0,0)" result="flood"/>
+   <feComposite id="feComposite1351" in="flood" in2="SourceGraphic" operator="in" result="composite1"/>
+   <feGaussianBlur id="feGaussianBlur1353" in="composite1" result="blur" stdDeviation="0.6"/>
+   <feOffset id="feOffset1355" dx="0" dy="0" result="offset"/>
+   <feComposite id="feComposite1357" in="SourceGraphic" in2="offset" result="composite2"/>
+  </filter>
  </defs>
  <g id="layer2">
-  <rect id="rect26993" transform="matrix(.97183 0 0 .97183 1.6327 1.6327)" x="5e-7" y="8.1294e-6" width="113.24" height="91.546" fill="url(#linearGradient27871)" fill-rule="evenodd" filter="url(#filter1133)" style="paint-order:markers stroke fill"/>
-  <text id="text22781" x="50.497318" y="16.139584" fill="#000000" font-family="sans-serif" font-size="6.35px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan22779" x="50.497318" y="16.139584" font-size="6.35px" stroke-width=".26458">About me</tspan></text>
-  <path id="path2" d="m45.306 16.178c-1.3649-0.31514-2.6354-0.59138-2.0202-1.7535 1.8734-3.5372 0.49653-5.4288-1.4812-5.4288-2.017 0-3.3593 1.9642-1.4812 5.4288 0.63385 1.1689-0.68464 1.4451-2.0202 1.7535-1.2197 0.28179-1.2653 0.88747-1.2613 1.9464l0.0015 0.39689h9.5215l0.0015-0.38458c0.0045-1.0669-0.03645-1.6757-1.2605-1.9587z" stroke-width=".3969"/>
-  <text id="text29203" x="7.1014166" y="28.701998" fill="#000000" font-family="sans-serif" font-size="4.2333px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan2482" x="7.1014166" y="28.701998">Currently a student, I have been programming as</tspan><tspan id="tspan10846" x="7.1014166" y="33.99366">a hobby for 6 years, mainly in open source.</tspan><tspan id="tspan10848" x="7.1014166" y="39.285324"/><tspan id="tspan10850" x="7.1014166" y="44.576984">Across those years, I've created several projects,</tspan><tspan id="tspan10852" x="7.1014166" y="49.868645">and acquired many skills related to software</tspan><tspan id="tspan10854" x="7.1014166" y="55.160309">development, as well as system administration</tspan><tspan id="tspan10856" x="7.1014166" y="60.451973">and other fields.</tspan></text>
-  <path id="rect47994" d="m30.956 71.967h51.594v11.906h-51.594z" fill="#50dc71" fill-rule="evenodd" filter="url(#filter7571)" stroke-width="0" style="paint-order:markers stroke fill"/>
-  <path id="path2-2" d="m39.423 77.788v2.6458h-5.5562v-5.0271h3.175v0.52917h-2.6458v3.9688h4.4979v-2.1167zm0.79375-3.175h-2.9072l1.0676 1.0583-1.846 1.8706 0.74824 0.74824 1.846-1.8706 1.0914 1.1038z" stroke-width=".26458"/>
-  <g id="text50436" transform="matrix(1.0022 0 0 1 -.18232 -.011109)" stroke-width=".26458" aria-label="LEARN MORE">
+  <rect id="rect26993" x="1.6327" y="1.6327" width="97.896" height="88.967" fill="url(#linearGradient27871)" fill-rule="evenodd" filter="url(#filter1359)" style="paint-order:markers stroke fill"/>
+  <text id="text22781" x="43.353569" y="16.139584" fill="#000000" font-family="sans-serif" font-size="6.35px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan22779" x="43.353569" y="16.139584" font-size="6.35px" stroke-width=".26458">About me</tspan></text>
+  <path id="path2" d="m38.162 16.178c-1.3649-0.31514-2.6354-0.59138-2.0202-1.7535 1.8734-3.5372 0.49653-5.4288-1.4812-5.4288-2.017 0-3.3593 1.9642-1.4812 5.4288 0.63385 1.1689-0.68464 1.4451-2.0202 1.7535-1.2197 0.28179-1.2653 0.88747-1.2613 1.9464l0.0015 0.39689h9.5215l0.0015-0.38458c0.0045-1.0669-0.03645-1.6757-1.2605-1.9587z" stroke-width=".3969"/>
+  <text id="text29203" x="5.5308499" y="28.701998" fill="#000000" font-family="sans-serif" font-size="4.2333px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan2482" x="5.5308499" y="28.701998">Currently a student, I have been programming</tspan><tspan id="tspan10846" x="5.5308499" y="33.99366">as a hobby for 6 years, mainly in open source.</tspan><tspan id="tspan10848" x="5.5308499" y="39.285324"/><tspan id="tspan10850" x="5.5308499" y="44.576984">Across those years, I've created several</tspan><tspan id="tspan10852" x="5.5308499" y="49.868645">projects, and acquired many skills related to</tspan><tspan id="tspan10854" x="5.5308499" y="55.160309">software development, as well as system</tspan><tspan id="tspan10856" x="5.5308499" y="60.451973">administration and other fields.</tspan></text>
+  <path id="rect47994" d="m24.557 71.967h51.594v11.906h-51.594z" fill="#50dc71" fill-rule="evenodd" filter="url(#filter7571)" stroke-width="0" style="paint-order:markers stroke fill"/>
+  <path id="path2-2" d="m33.024 77.788v2.6458h-5.5562v-5.0271h3.175v0.52917h-2.6458v3.9688h4.4979v-2.1167zm0.79375-3.175h-2.9072l1.0676 1.0583-1.846 1.8706 0.74824 0.74824 1.846-1.8706 1.0914 1.1038z" stroke-width=".26458"/>
+  <g id="text50436" transform="matrix(1.0022 0 0 1 -6.5815 -.011064)" stroke-width=".26458" aria-label="LEARN MORE">
    <path id="path885" d="m43.912 79.419v-3.406h-0.43339v3.8171h2.517v-0.41116z"/>
    <path id="path887" d="m49.363 76.424v-0.41116h-2.7392v3.8171h2.7392v-0.41116h-2.3003v-1.3279h2.0725v-0.41116h-2.0725v-1.2557z"/>
    <path id="path889" d="m53.213 79.83h0.47228l-1.6835-3.8171h-0.47228l-1.6835 3.8171h0.47228l0.38338-0.86678h2.128zm-2.3336-1.2779 0.889-2.0058 0.88344 2.0058z"/>

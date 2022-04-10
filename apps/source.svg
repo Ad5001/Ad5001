@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="113.4mm"
-   height="92.300003mm"
-   viewBox="0 0 113.4 92.300003"
+   width="381"
+   height="348"
+   viewBox="0 0 100.80625 92.075001"
    version="1.1"
    id="svg979"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
@@ -38,7 +38,8 @@
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2"
-     width="114mm" />
+     width="428.59842px"
+     units="px" />
   <defs
      id="defs976">
     <linearGradient
@@ -61,13 +62,14 @@
        y1="8.1293947e-06"
        x2="113.24167"
        y2="91.545837"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.86448597,0,0,0.97183081,1.6326753,1.6326678)" />
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter1133"
        x="-0.012716168"
-       y="-0.015729827"
+       y="-0.015729828"
        width="1.0254323"
        height="1.0314597">
       <feFlood
@@ -99,43 +101,7 @@
          id="feComposite1131" />
     </filter>
     <filter
-       style="color-interpolation-filters:sRGB;"
-       inkscape:label="Drop Shadow"
-       id="filter1158"
-       x="-0.0090708662"
-       y="-0.040314961"
-       width="1.0181417"
-       height="1.0806299">
-      <feFlood
-         flood-opacity="1"
-         flood-color="rgb(0,0,0)"
-         result="flood"
-         id="feFlood1148" />
-      <feComposite
-         in="flood"
-         in2="SourceGraphic"
-         operator="in"
-         result="composite1"
-         id="feComposite1150" />
-      <feGaussianBlur
-         in="composite1"
-         stdDeviation="0.2"
-         result="blur"
-         id="feGaussianBlur1152" />
-      <feOffset
-         dx="0"
-         dy="0"
-         result="offset"
-         id="feOffset1154" />
-      <feComposite
-         in="SourceGraphic"
-         in2="offset"
-         operator="over"
-         result="composite2"
-         id="feComposite1156" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter6467"
        x="-0.0084380151"
@@ -170,6 +136,42 @@
          result="composite2"
          id="feComposite6465" />
     </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter1156"
+       x="-0.014709513"
+       y="-0.016185767"
+       width="1.029419"
+       height="1.0323715">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood1146" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite1148" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.6"
+         result="blur"
+         id="feGaussianBlur1150" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset1152" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite1154" />
+    </filter>
   </defs>
   <g
      inkscape:groupmode="layer"
@@ -177,72 +179,77 @@
      inkscape:label="Calque 2"
      style="display:inline">
     <rect
-       style="fill:url(#linearGradient27871);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter1133)"
+       style="fill:url(#linearGradient27871);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter1156)"
        id="rect26993"
-       width="113.24167"
-       height="91.54583"
-       x="5e-07"
-       y="8.1293947e-06"
-       transform="matrix(0.97183081,0,0,0.97183081,1.6326752,1.6326678)" />
+       width="97.895836"
+       height="88.967056"
+       x="1.6326756"
+       y="1.6326756" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#fefefe;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="56.800751"
+       x="49.921585"
        y="16.0655"
        id="text22781"><tspan
          sodipodi:role="line"
          id="tspan22779"
          style="font-size:6.35px;fill:#fefefe;fill-opacity:1;stroke-width:0.264583"
-         x="56.800751"
+         x="49.921585"
          y="16.0655">Apps</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="7.1014166"
+       x="5.5350833"
        y="28.701998"
        id="text29203"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         x="7.1014166"
+         x="5.5350833"
          y="28.701998"
-         id="tspan15652">You can find the majority of software I'm currently</tspan><tspan
+         id="tspan15652">You can find the majority of software I'm</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         x="7.1014166"
+         x="5.5350833"
          y="33.99366"
-         id="tspan6289">creating over at my Apps website.</tspan><tspan
+         id="tspan6289">currently creating over at my Apps website.</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         x="7.1014166"
+         x="5.5350833"
          y="39.285324"
          id="tspan7453" /><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         x="7.1014166"
+         x="5.5350833"
          y="44.576984"
-         id="tspan6291">Keep in mind, however, that some of them have</tspan><tspan
+         id="tspan6291">Keep in mind, however, that some of them</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         x="7.1014166"
+         x="5.5350833"
          y="49.868645"
-         id="tspan6293">yet to be released, and as such, do not possess any</tspan><tspan
+         id="tspan6293">have yet to be released, and as such, do not</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-         x="7.1014166"
+         x="5.5350833"
          y="55.160309"
-         id="tspan6295">download link on their dedicated page.</tspan></text>
+         id="tspan6295">possess any download link on their dedicated</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         x="5.5350833"
+         y="60.451973"
+         id="tspan8231">page.</tspan></text>
     <path
        id="rect47994"
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0;stroke-linejoin:round;paint-order:markers stroke fill;filter:url(#filter6467)"
-       d="m 28.310417,71.966667 h 56.885417 v 11.90625 H 28.310417 Z" />
+       d="m 21.91125,71.966667 h 56.885417 v 11.90625 H 21.91125 Z" />
     <path
-       d="m 36.777083,77.7875 v 2.645834 h -5.55625 V 75.40625 h 3.175 v 0.529167 H 31.75 v 3.96875 h 4.497916 V 77.7875 Z m 0.79375,-3.175 h -2.907242 l 1.067594,1.058334 -1.845998,1.870604 0.748242,0.748241 1.845998,-1.870604 1.091406,1.103842 z"
+       d="m 30.377916,77.7875 v 2.645834 h -5.55625 V 75.40625 h 3.175 v 0.529167 h -2.645833 v 3.96875 h 4.497916 V 77.7875 Z m 0.79375,-3.175 h -2.907242 l 1.067594,1.058334 -1.845998,1.870604 0.748242,0.748241 1.845998,-1.870604 1.091406,1.103842 z"
        id="path2-2"
        style="stroke-width:0.264583" />
     <g
        aria-label="APPS WEBSITE"
        id="text50436"
-       style="font-size:5.55625px;line-height:1.25;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583">
+       style="font-size:5.55625px;line-height:1.25;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       transform="translate(-6.3991666)">
       <path
          d="m 43.99968,79.830345 h 0.472281 l -1.683544,-3.817144 h -0.472281 l -1.683544,3.817144 h 0.472281 l 0.383382,-0.866775 h 2.128043 z m -2.333625,-1.277937 0.889,-2.005807 0.883443,2.005807 z"
          style="font-family:Metropolis;-inkscape-font-specification:Metropolis"
@@ -289,9 +296,9 @@
          id="path1992" />
     </g>
     <path
-       d="m 52.122916,11.377083 v 6.35 h -7.937498 v -6.35 z m 0.793751,-2.3812497 h -9.525 v 9.5249997 h 9.525 z m -6.35,3.5718747 h -1.587501 v 1.5875 h 1.587501 z m 2.38125,0 h -1.587501 v 1.5875 h 1.587501 z m 2.38125,0 h -1.587501 v 1.5875 h 1.587501 z m -4.7625,2.38125 h -1.587501 v 1.5875 h 1.587501 z m 2.38125,0 h -1.587501 v 1.5875 h 1.587501 z"
+       d="m 45.243749,11.377083 v 6.35 h -7.937498 v -6.35 z M 46.0375,8.9958333 h -9.525 v 9.5249997 h 9.525 z m -6.35,3.5718747 h -1.587501 v 1.5875 H 39.6875 Z m 2.38125,0 h -1.587501 v 1.5875 h 1.587501 z m 2.38125,0 h -1.587501 v 1.5875 H 44.45 Z m -4.7625,2.38125 h -1.587501 v 1.5875 H 39.6875 Z m 2.38125,0 h -1.587501 v 1.5875 h 1.587501 z"
        id="path2"
-       style="stroke-width:0.396874;fill:#f7f7f7;fill-opacity:1" />
+       style="fill:#f7f7f7;fill-opacity:1;stroke-width:0.396874" />
   </g>
   <metadata
      id="metadata865">
