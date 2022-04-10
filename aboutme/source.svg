@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="113.4mm"
+   height="92.300003mm"
+   viewBox="0 0 113.4 92.300003"
+   version="1.1"
+   id="svg979"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="source.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title867">About me - Ad5001 Github</title>
+  <sodipodi:namedview
+     id="namedview981"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.866066"
+     inkscape:cx="197.47426"
+     inkscape:cy="156.47892"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     width="114mm" />
+  <defs
+     id="defs976">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient27869">
+      <stop
+         style="stop-color:#eeeeee;stop-opacity:1"
+         offset="0"
+         id="stop27865" />
+      <stop
+         style="stop-color:#dcdcdc;stop-opacity:1"
+         offset="1"
+         id="stop27867" />
+    </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter1851"
+       x="-0.044558026"
+       y="-0.047136568"
+       width="1.0891161"
+       height="1.0942731">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood1841" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite1843" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="2"
+         result="blur"
+         id="feGaussianBlur1845" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset1847" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite1849" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient27869"
+       id="linearGradient27871"
+       x1="5e-07"
+       y1="8.1293947e-06"
+       x2="113.24167"
+       y2="91.545837"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter28193"
+       x="-0.014835528"
+       y="-0.018351464"
+       width="1.0296711"
+       height="1.0367029">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood28183" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite28185" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.7"
+         result="blur"
+         id="feGaussianBlur28187" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset28189" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite28191" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter28193-5"
+       x="-0.014835528"
+       y="-0.018351464"
+       width="1.0296711"
+       height="1.0367029">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood28183-3" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite28185-5" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.7"
+         result="blur"
+         id="feGaussianBlur28187-6" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset28189-2" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite28191-9" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter56184"
+       x="-0.02519685"
+       y="-0.1007874"
+       width="1.0503937"
+       height="1.2015748">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood56174" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite56176" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.5"
+         result="blur"
+         id="feGaussianBlur56178" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset56180" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite56182" />
+    </filter>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Calque 2"
+     style="display:inline">
+    <rect
+       style="fill:url(#linearGradient27871);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter28193)"
+       id="rect26993"
+       width="113.24167"
+       height="91.54583"
+       x="5e-07"
+       y="8.1293947e-06"
+       transform="matrix(0.97183081,0,0,0.97183081,1.6326752,1.6326678)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="50.497318"
+       y="16.139584"
+       id="text22781"><tspan
+         sodipodi:role="line"
+         id="tspan22779"
+         style="font-size:6.35px;stroke-width:0.264583"
+         x="50.497318"
+         y="16.139584">About me</tspan></text>
+    <path
+       d="m 45.306041,16.178083 c -1.364925,-0.315135 -2.635395,-0.591375 -2.020208,-1.753493 1.873366,-3.537152 0.496531,-5.4287567 -1.481213,-5.4287567 -2.017025,0 -3.359327,1.9642427 -1.481225,5.4287567 0.633847,1.168868 -0.684638,1.445108 -2.02019,1.753493 -1.219673,0.281791 -1.26532,0.887468 -1.261345,1.946386 l 0.0015,0.396893 h 9.521549 l 0.0015,-0.384585 c 0.0045,-1.066861 -0.03645,-1.675703 -1.260548,-1.958694 z"
+       id="path2"
+       style="stroke-width:0.396896" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="7.1014166"
+       y="28.701998"
+       id="text29203"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="7.1014166"
+         y="28.701998"
+         id="tspan2482">Currently a student, I have been programming as</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="7.1014166"
+         y="33.99366"
+         id="tspan10846">a hobby for 6 years, mainly in open source.</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="7.1014166"
+         y="39.285324"
+         id="tspan10848" /><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="7.1014166"
+         y="44.576984"
+         id="tspan10850">Across those years, I've created several projects,</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="7.1014166"
+         y="49.868645"
+         id="tspan10852">and acquired many skills related to software</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="7.1014166"
+         y="55.160309"
+         id="tspan10854">development, as well as system administration</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="7.1014166"
+         y="60.451973"
+         id="tspan10856">and other fields.</tspan></text>
+    <path
+       id="rect47994"
+       style="fill:#ffffff;fill-rule:evenodd;stroke-width:0;stroke-linejoin:round;paint-order:markers stroke fill;filter:url(#filter56184)"
+       d="m 32.808334,71.966667 h 47.625 v 11.90625 h -47.625 z" />
+    <path
+       d="m 41.275,77.7875 v 2.645834 H 35.71875 V 75.40625 h 3.175 v 0.529167 h -2.645833 v 3.96875 h 4.497916 V 77.7875 Z m 0.79375,-3.175 h -2.907242 l 1.067594,1.058334 -1.845998,1.870604 0.748242,0.748241 1.845998,-1.870604 1.091406,1.103842 z"
+       id="path2-2"
+       style="stroke-width:0.264583" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.55625px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="44.952709"
+       y="79.830345"
+       id="text50436"><tspan
+         sodipodi:role="line"
+         id="tspan50434"
+         style="font-size:5.55625px;stroke-width:0.264583"
+         x="44.952709"
+         y="79.830345">LEARN MORE</tspan></text>
+  </g>
+  <metadata
+     id="metadata865">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>About me - Ad5001 Github</dc:title>
+        <dc:date>10/04/2022</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Ad5001</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>(c) Ad5001 2022</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:source>https://github.com/Ad5001/Ad5001</dc:source>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
