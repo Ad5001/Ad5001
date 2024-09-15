@@ -9,12 +9,9 @@ Welcome to my Github profile! Please keep in mind this is only a mirror for all 
 
 ### Contact me
 
-The primary mean to contact me is by <a href="mailto:mail@ad5001.eu"><img src="https://github.com/Ad5001/Ad5001/blob/main/icons/mail.svg" alt="icon" width="16" /> email</a>. 
+The primary mean to contact me is by <a href="mailto:mail@ad5001.eu"><img src="https://github.com/Ad5001/Ad5001/blob/main/icons/mail.svg" alt="icon" width="16" /> email</a> and <a href="https://fosstodon.org/@Ad5001"><img src="https://github.com/Ad5001/Ad5001/blob/main/icons/mastodon.svg" alt="mastodon icon" width="16" /> Mastodon</a>. 
 
 However, you can also contact me through <a href="https://git.ad5001.eu/Ad5001"><img src="https://github.com/Ad5001/Ad5001/blob/main/icons/git.svg" alt="git icon" width="16" /> Gitea</a> or <a href="https://github.com/Ad5001"><img src="https://github.com/Ad5001/Ad5001/blob/main/icons/github.svg" alt="github icon" width="16" /> Github</a> for development related purposes. 
-
-I’m not really active on <a href="https://mastodon.technology/@Ad5001"><img src="https://github.com/Ad5001/Ad5001/blob/main/icons/mastodon.svg" alt="mastodon icon" width="16" /> Mastodon</a> or <a href="https://twitter.com/Ad5001P4F"><img src="https://github.com/Ad5001/Ad5001/blob/main/icons/twitter.svg" alt="twitter icon" width="16" /> Twitter</a>, but you can still contact me there. However, do except it may take time for me to respond.
-
 
 
 <!--
